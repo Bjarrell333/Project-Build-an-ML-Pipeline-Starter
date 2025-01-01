@@ -1,0 +1,50 @@
+indows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\bjarr> wsl
+Welcome to Ubuntu 20.04.6 LTS (GNU/Linux 5.15.153.1-microsoft-standard-WSL2 x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+ * Strictly confined Kubernetes makes edge and IoT secure. Learn how MicroK8s
+   just raised the bar for easy, resilient and secure K8s cluster deployment.
+
+   https://ubuntu.com/engage/secure-kubernetes-at-the-edge
+
+Expanded Security Maintenance for Applications is not enabled.
+
+0 updates can be applied immediately.
+
+Enable ESM Apps to receive additional future security updates.
+See https://ubuntu.com/esm or run: sudo pro status
+
+/etc/update-motd.d/90-updates-available: 7: /usr/share/update-notifier/notify-updates-outdated: not found
+run-parts: /etc/update-motd.d/90-updates-available exited with return code 127
+/etc/update-motd.d/91-release-upgrade: 4: lsb_release: not found
+
+
+This message is shown once a day. To disable it please create the
+/home/kbwonderland/.hushlogin file.
+(base) kbwonderland@LegionPro:/mnt/c/Users/bjarr$ cd /mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter
+(base) kbwonderland@LegionPro:/mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter$ conda activate nyc_airbnb_dev
+(nyc_airbnb_dev) kbwonderland@LegionPro:/mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter$ mlflow run . -P steps=basic_cleaning
+2025/01/01 17:33:10 INFO mlflow.utils.conda: Conda environment mlflow-498808f8c125fa02022e7f09f7b0b2b49dc0ce8a already exists.
+2025/01/01 17:33:10 INFO mlflow.projects.utils: === Created directory /tmp/tmp5br0jnyq for downloading remote URIs passed to arguments of type 'path' ===
+2025/01/01 17:33:10 INFO mlflow.projects.backend.local: === Running command 'source /home/kbwonderland/miniconda3/bin/../etc/profile.d/conda.sh && conda activate mlflow-498808f8c125fa02022e7f09f7b0b2b49dc0ce8a 1>&2 && python main.py main.steps=\'basic_cleaning\' $(echo '')' in run with ID 'c3da874a59b54d6198a8b3fe10483dff' ===
+/mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter/main.py:24: UserWarning:
+The version_base parameter is not specified.
+Please specify a compatability version level, or None.
+Will assume defaults for version 1.1
+  @hydra.main(config_name='config')
+/mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter/main.py:24: UserWarning:
+config_path is not specified in @hydra.main().
+See https://hydra.cc/docs/1.2/upgrades/1.0_to_1.1/changes_to_hydra_main_config_path for more information.
+  @hydra.main(config_name='config')
+/home/kbwonderland/miniconda3/envs/mlflow-498808f8c125fa02022e7f09f7b0b2b49dc0ce8a/lib/python3.10/site-packages/hydra/_internal/hydra.py:119: UserWarning: Future Hydra versions will no longer change working directory at job runtime by default.
+See https://hydra.cc/docs/1.2/upgrades/1.1_to_1.2/changes_to_job_working_dir/ for more information.
+  ret = run_job(
+2025/01/01 17:33:12 INFO mlflow.projects: === Run (ID 'c3da874a59b54d6198a8b3fe10483dff') succeeded ===
