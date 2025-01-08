@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e54a54c8765b44d584ee5d96c307837b/artifacts
+end_time: 1736377341600
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e54a54c8765b44d584ee5d96c307837b
+run_name: gaudy-mole-245
+run_uuid: e54a54c8765b44d584ee5d96c307837b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736377285010
+status: 3
+tags: []
+user_id: kbwonderland

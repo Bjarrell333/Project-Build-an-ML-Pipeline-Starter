@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter/mlruns/0/46d6f4dac7e2474c8dcc619b638afdad/artifacts
+end_time: 1736377383104
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46d6f4dac7e2474c8dcc619b638afdad
+run_name: bouncy-shrew-66
+run_uuid: 46d6f4dac7e2474c8dcc619b638afdad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736377160114
+status: 3
+tags: []
+user_id: kbwonderland

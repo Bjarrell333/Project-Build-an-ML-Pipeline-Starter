@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter/mlruns/0/af60bd311fd1428491d0f5a16f1a8568/artifacts
+end_time: 1736377234074
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af60bd311fd1428491d0f5a16f1a8568
+run_name: resilient-roo-899
+run_uuid: af60bd311fd1428491d0f5a16f1a8568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736377165013
+status: 3
+tags: []
+user_id: kbwonderland
