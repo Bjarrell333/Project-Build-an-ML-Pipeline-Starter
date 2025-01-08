@@ -1,0 +1,173 @@
+{
+    "os": "Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.10.0",
+    "heartbeatAt": "2025-01-08T22:47:16.523913",
+    "startedAt": "2025-01-08T22:47:15.818474",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--mlflow_model",
+        "random_forest_export:prod",
+        "--test_dataset",
+        "test_data.csv:latest"
+    ],
+    "state": "running",
+    "program": "/mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter/components/test_regression_model/run.py",
+    "codePathLocal": "run.py",
+    "codePath": "components/test_regression_model/run.py",
+    "git": {
+        "remote": "https://github.com/Bjarrell333/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "958162c86e69f459e70f390c27a0edffdcce7473"
+    },
+    "email": "Bjarrell333@gmail.com",
+    "root": "/mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter",
+    "host": "LegionPro",
+    "username": "kbwonderland",
+    "executable": "/home/kbwonderland/miniconda3/envs/mlflow-ac229c86a5527fdc2322b6b3944917734a7803be/bin/python",
+    "cpu_count": 12,
+    "cpu_count_logical": 24,
+    "cpu_freq": {
+        "current": 2303.998,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 8.33487319946289
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4060 Laptop GPU",
+            "memory_total": 8585740288
+        }
+    ],
+    "memory": {
+        "total": 31.218276977539062
+    }
+}

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter/mlruns/0/be3924bd2cd74b739e0e456569ca0f5e/artifacts
+end_time: 1736374471608
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be3924bd2cd74b739e0e456569ca0f5e
+run_name: sedate-calf-493
+run_uuid: be3924bd2cd74b739e0e456569ca0f5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736374357211
+status: 3
+tags: []
+user_id: kbwonderland

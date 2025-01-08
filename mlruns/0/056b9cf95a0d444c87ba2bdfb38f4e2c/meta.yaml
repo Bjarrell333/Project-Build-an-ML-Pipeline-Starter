@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter/mlruns/0/056b9cf95a0d444c87ba2bdfb38f4e2c/artifacts
+end_time: 1736375793944
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 056b9cf95a0d444c87ba2bdfb38f4e2c
+run_name: omniscient-hog-761
+run_uuid: 056b9cf95a0d444c87ba2bdfb38f4e2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736375625354
+status: 3
+tags: []
+user_id: kbwonderland

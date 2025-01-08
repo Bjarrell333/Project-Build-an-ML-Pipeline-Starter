@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter/mlruns/0/df645ebfb32b4e01b4a4fa28630443db/artifacts
+end_time: 1736375718743
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df645ebfb32b4e01b4a4fa28630443db
+run_name: skittish-gnu-198
+run_uuid: df645ebfb32b4e01b4a4fa28630443db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736375695584
+status: 3
+tags: []
+user_id: kbwonderland

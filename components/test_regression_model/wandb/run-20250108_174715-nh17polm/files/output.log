@@ -1,0 +1,8 @@
+2025-01-08 17:47:17,175 Downloading artifacts
+[34m[1mwandb[39m[22m: Downloading large artifact random_forest_export:prod, 58.18MB. 6 files...
+[34m[1mwandb[39m[22m:   6 of 6 files downloaded.
+Done. 0:0:2.0
+2025-01-08 17:47:20,891 Loading model and performing inference on test set
+2025-01-08 17:47:21,451 Scoring
+2025-01-08 17:47:21,566 Score: 0.5619290498292977
+2025-01-08 17:47:21,567 MAE: 33.846924076517

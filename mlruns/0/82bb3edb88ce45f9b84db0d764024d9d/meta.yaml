@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter/mlruns/0/82bb3edb88ce45f9b84db0d764024d9d/artifacts
+end_time: 1736374401899
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82bb3edb88ce45f9b84db0d764024d9d
+run_name: likeable-quail-189
+run_uuid: 82bb3edb88ce45f9b84db0d764024d9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736374380890
+status: 3
+tags: []
+user_id: kbwonderland

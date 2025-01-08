@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fda936007f734500b29bd77750f14cc3/artifacts
+end_time: 1736374471360
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fda936007f734500b29bd77750f14cc3
+run_name: caring-auk-946
+run_uuid: fda936007f734500b29bd77750f14cc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736374430001
+status: 3
+tags: []
+user_id: kbwonderland

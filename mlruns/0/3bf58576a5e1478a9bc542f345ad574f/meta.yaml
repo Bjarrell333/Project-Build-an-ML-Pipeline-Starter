@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3bf58576a5e1478a9bc542f345ad574f/artifacts
+end_time: 1736375967594
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3bf58576a5e1478a9bc542f345ad574f
+run_name: handsome-cat-872
+run_uuid: 3bf58576a5e1478a9bc542f345ad574f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736375933342
+status: 4
+tags: []
+user_id: kbwonderland

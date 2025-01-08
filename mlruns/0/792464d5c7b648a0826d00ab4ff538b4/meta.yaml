@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter/mlruns/0/792464d5c7b648a0826d00ab4ff538b4/artifacts
+end_time: 1736376449035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 792464d5c7b648a0826d00ab4ff538b4
+run_name: burly-sloth-706
+run_uuid: 792464d5c7b648a0826d00ab4ff538b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736376404534
+status: 3
+tags: []
+user_id: kbwonderland

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter/mlruns/0/365affb40efd49c0b1ce6f05909663cf/artifacts
+end_time: 1736374226595
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 365affb40efd49c0b1ce6f05909663cf
+run_name: zealous-kit-715
+run_uuid: 365affb40efd49c0b1ce6f05909663cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736374214539
+status: 4
+tags: []
+user_id: kbwonderland

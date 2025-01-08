@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter/mlruns/0/84d184aa0f964496a47508ae6db397d8/artifacts
+end_time: 1736375967914
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84d184aa0f964496a47508ae6db397d8
+run_name: resilient-deer-1
+run_uuid: 84d184aa0f964496a47508ae6db397d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736375929971
+status: 4
+tags: []
+user_id: kbwonderland

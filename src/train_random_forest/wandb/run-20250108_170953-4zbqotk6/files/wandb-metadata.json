@@ -1,0 +1,183 @@
+{
+    "os": "Linux-5.15.153.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.10.0",
+    "heartbeatAt": "2025-01-08T22:09:54.574986",
+    "startedAt": "2025-01-08T22:09:53.833688",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--trainval_artifact",
+        "trainval_data.csv:latest",
+        "--val_size",
+        "0.2",
+        "--random_seed",
+        "42",
+        "--stratify_by",
+        "neighbourhood_group",
+        "--rf_config",
+        "/mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter/multirun/2025-01-08/17-09-08/1/rf_config.json",
+        "--max_tfidf_features",
+        "5",
+        "--output_artifact",
+        "random_forest_export"
+    ],
+    "state": "running",
+    "program": "/mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py",
+    "codePathLocal": "run.py",
+    "codePath": "src/train_random_forest/run.py",
+    "git": {
+        "remote": "https://github.com/Bjarrell333/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "958162c86e69f459e70f390c27a0edffdcce7473"
+    },
+    "email": "Bjarrell333@gmail.com",
+    "root": "/mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter",
+    "host": "LegionPro",
+    "username": "kbwonderland",
+    "executable": "/home/kbwonderland/miniconda3/envs/mlflow-369981a7355537454302b258f66b3f55226a5b17/bin/python",
+    "cpu_count": 12,
+    "cpu_count_logical": 24,
+    "cpu_freq": {
+        "current": 2303.998,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2303.998,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 8.157962799072266
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4060 Laptop GPU",
+            "memory_total": 8585740288
+        }
+    ],
+    "memory": {
+        "total": 31.218276977539062
+    }
+}

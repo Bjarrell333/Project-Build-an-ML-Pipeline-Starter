@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ab90b206cf5e4893b499127577979e72/artifacts
+end_time: 1736374202012
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab90b206cf5e4893b499127577979e72
+run_name: brawny-roo-631
+run_uuid: ab90b206cf5e4893b499127577979e72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736374190121
+status: 4
+tags: []
+user_id: kbwonderland
