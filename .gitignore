@@ -145,3 +145,4 @@ mlruns/
 outputs/
 random_forest_dir/
 multirun/
+Miniconda3-latest-Linux-x86_64.sh
