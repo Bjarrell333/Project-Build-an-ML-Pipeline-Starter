@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9d61041e0f5b4e7eacc0b5542300b751/artifacts
+end_time: 1736368150249
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d61041e0f5b4e7eacc0b5542300b751
+run_name: sassy-conch-674
+run_uuid: 9d61041e0f5b4e7eacc0b5542300b751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736368137134
+status: 4
+tags: []
+user_id: kbwonderland

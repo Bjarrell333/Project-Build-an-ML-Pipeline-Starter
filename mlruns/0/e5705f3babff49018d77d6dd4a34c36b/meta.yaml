@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e5705f3babff49018d77d6dd4a34c36b/artifacts
+end_time: 1736371959026
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5705f3babff49018d77d6dd4a34c36b
+run_name: indecisive-toad-777
+run_uuid: e5705f3babff49018d77d6dd4a34c36b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736371907659
+status: 3
+tags: []
+user_id: kbwonderland

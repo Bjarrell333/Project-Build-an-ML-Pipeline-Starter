@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6e1dc51c86d44caabc52e7f64bef653e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e1dc51c86d44caabc52e7f64bef653e
+run_name: glamorous-seal-741
+run_uuid: 6e1dc51c86d44caabc52e7f64bef653e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736368140914
+status: 1
+tags: []
+user_id: kbwonderland

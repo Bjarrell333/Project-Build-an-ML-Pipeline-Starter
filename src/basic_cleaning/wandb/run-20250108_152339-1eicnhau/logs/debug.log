@@ -1,0 +1,14 @@
+2025-01-08 15:23:39,587 INFO    MainThread:785 [wandb_setup.py:_flush():76] Current SDK version is 0.16.0
+2025-01-08 15:23:39,587 INFO    MainThread:785 [wandb_setup.py:_flush():76] Configure stats pid to 785
+2025-01-08 15:23:39,587 INFO    MainThread:785 [wandb_setup.py:_flush():76] Loading settings from /home/kbwonderland/.config/wandb/settings
+2025-01-08 15:23:39,588 INFO    MainThread:785 [wandb_setup.py:_flush():76] Loading settings from /mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/settings
+2025-01-08 15:23:39,588 INFO    MainThread:785 [wandb_setup.py:_flush():76] Loading settings from environment variables: {'run_group': 'development', 'project': 'nyc_airbnb'}
+2025-01-08 15:23:39,588 INFO    MainThread:785 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2025-01-08 15:23:39,589 INFO    MainThread:785 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'src/basic_cleaning/run.py', 'program_abspath': '/mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/run.py', 'program': '/mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/run.py'}
+2025-01-08 15:23:39,589 INFO    MainThread:785 [wandb_init.py:_log_setup():524] Logging user logs to /mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20250108_152339-1eicnhau/logs/debug.log
+2025-01-08 15:23:39,590 INFO    MainThread:785 [wandb_init.py:_log_setup():525] Logging internal logs to /mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20250108_152339-1eicnhau/logs/debug-internal.log
+2025-01-08 15:23:39,590 INFO    MainThread:785 [wandb_init.py:init():564] calling init triggers
+2025-01-08 15:23:39,590 INFO    MainThread:785 [wandb_init.py:init():571] wandb.init called with sweep_config: {}
+config: {}
+2025-01-08 15:23:39,591 INFO    MainThread:785 [wandb_init.py:init():609] wandb.init() called when a run is still active
+2025-01-08 15:23:46,771 WARNING MsgRouterThr:785 [router.py:message_loop():77] message_loop has been closed

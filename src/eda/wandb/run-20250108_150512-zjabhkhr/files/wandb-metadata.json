@@ -1,0 +1,52 @@
+{
+    "os": "Windows-11-10.0.22631-SP0",
+    "python": "3.12.7",
+    "heartbeatAt": "2025-01-08T20:05:13.354888",
+    "startedAt": "2025-01-08T20:05:12.801500",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "bjarr/Project-Build-an-ML-Pipeline-Starter/src/eda/eda.ipynb",
+    "codePathLocal": null,
+    "root": "C:/Users/bjarr/Project-Build-an-ML-Pipeline-Starter",
+    "git": {
+        "remote": "https://github.com/Bjarrell333/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "2ddd4732a277a47f8ebf596881b3f74e1ea7a92b"
+    },
+    "email": "Bjarrell333@gmail.com",
+    "host": "LegionPro",
+    "username": "bjarr",
+    "executable": "C:\\Users\\bjarr\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+    "cpu_count": 16,
+    "cpu_count_logical": 24,
+    "cpu_freq": {
+        "current": 2100.0,
+        "min": 0.0,
+        "max": 2100.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2100.0,
+            "min": 0.0,
+            "max": 2100.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 3723.7978477478027,
+            "used": 1944.3844032287598
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4060 Laptop GPU",
+            "memory_total": 8585740288
+        }
+    ],
+    "memory": {
+        "total": 63.74596405029297
+    }
+}

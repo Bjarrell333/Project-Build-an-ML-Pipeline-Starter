@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5b151fea7c654277a204a4e9a4eb8940/artifacts
+end_time: 1736366136277
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b151fea7c654277a204a4e9a4eb8940
+run_name: bemused-grub-863
+run_uuid: 5b151fea7c654277a204a4e9a4eb8940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736365993961
+status: 3
+tags: []
+user_id: kbwonderland

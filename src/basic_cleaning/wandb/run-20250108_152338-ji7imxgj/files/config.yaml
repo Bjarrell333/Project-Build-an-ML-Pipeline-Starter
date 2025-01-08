@@ -1,0 +1,41 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    python_version: 3.10.0
+    cli_version: 0.16.0
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    start_time: 1736367818.459409
+    t:
+      1:
+      - 55
+      2:
+      - 55
+      3:
+      - 23
+      - 24
+      4: 3.10.0
+      5: 0.16.0
+      8:
+      - 5
+      13: linux-x86_64
+input_artifact:
+  desc: null
+  value: sample.csv:v0
+output_artifact:
+  desc: null
+  value: clean_sample.csv
+output_type:
+  desc: null
+  value: cleaned_sample
+output_description:
+  desc: null
+  value: Cleaned sample data
+min_price:
+  desc: null
+  value: 10.0
+max_price:
+  desc: null
+  value: 350.0

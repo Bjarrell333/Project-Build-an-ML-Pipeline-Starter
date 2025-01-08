@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a9c10158bd63444d92ece8b583304d35/artifacts
+end_time: 1736366136014
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9c10158bd63444d92ece8b583304d35
+run_name: calm-robin-727
+run_uuid: a9c10158bd63444d92ece8b583304d35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736366028567
+status: 3
+tags: []
+user_id: kbwonderland

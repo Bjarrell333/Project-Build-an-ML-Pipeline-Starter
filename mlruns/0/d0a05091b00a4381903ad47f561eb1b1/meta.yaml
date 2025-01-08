@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d0a05091b00a4381903ad47f561eb1b1/artifacts
+end_time: 1736367440103
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0a05091b00a4381903ad47f561eb1b1
+run_name: amusing-bear-517
+run_uuid: d0a05091b00a4381903ad47f561eb1b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736367436364
+status: 4
+tags: []
+user_id: kbwonderland

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/bjarr/Project-Build-an-ML-Pipeline-Starter/mlruns/0/87d617f6ea2b40bca06f49b9f166b9a7/artifacts
+end_time: 1736371959236
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87d617f6ea2b40bca06f49b9f166b9a7
+run_name: traveling-fly-916
+run_uuid: 87d617f6ea2b40bca06f49b9f166b9a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736371902143
+status: 3
+tags: []
+user_id: kbwonderland
